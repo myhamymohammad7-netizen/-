@@ -1,0 +1,6 @@
+{
+  "name": "Karino",
+  "description": "اپلیکیشن هوشمند مدیریت کارها، یادداشت‌ها و پیگیری عادت‌های روزانه با طراحی مدرن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
